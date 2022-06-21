@@ -117,7 +117,7 @@ const Missions = [
     destination: 'Júpiter',
   },
   {
-    name: 'Cassini/Huygens',
+    name: 'Cassini/ Huygens',
     year: '1997',
     country: 'Estados Unidos e Europa',
     destination: 'Saturno',
