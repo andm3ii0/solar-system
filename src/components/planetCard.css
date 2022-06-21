@@ -1,17 +1,15 @@
 .PlanetCard {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  flex-basis: 150px;
-  flex-shrink: 1;
-  flex-grow: 0;
+  justify-content: center;
+  flex:150px 1 0;
 }
 
 p {
   color: white;
-  text-align: center;
   font-size: 20px;
+  text-align: center;
 }
 
 img {
