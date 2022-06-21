@@ -6,8 +6,8 @@
 }
 
 .descricao {
-  display: flex;
   align-items: flex-start;
+  display: flex;
   flex-direction: column;
   padding: 15px;
 }
